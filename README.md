@@ -6,7 +6,7 @@
 * [Libraries](#Libraries-Used).
 * [Algorithm used](#Algorithm-used)
 * [Notebooks](#Notebooks-and-their-links)
-* [Implementation](#Implementation)
+* [Implementation tool](#Implementation_tool)
 * [Result](#Result)
 * [Author](#Author)
 
@@ -40,7 +40,7 @@ I have used Convulational Neural Network which is a deep learning algorithm to t
 * [live_detection.py](https://github.com/Ritik187/Face-mask-detection-/blob/master/live_detection.py)
 
 
-### Implementation
+### Implementation tool
 I used Jupyter Notebook to implement all these files for this model.
 
 ### Result
