@@ -3,20 +3,29 @@
 ### Contents
 * [About](#About)
 * [Dataset](#Dataset)
-* [Frameworks used](#Frameworks used).
-* [Notebooks and their description](#Notebooks)
+* [Libraries](#Libraries).
+* [Notebooks](#Notebooks)
 * [Implementation](#Implementation)
 * [Author](#Author)
 
 ### About
 It is a deep learning model and aims to detect whether the person is wearing mask or not.
-* Features:
+Features:
  * This model has an accuracy about 99%(approx).
  * It sent an alert mail if without mask is detected.
 
 ### Dataset
 * [Link](https://github.com/Ritik187/Face-mask-detection-/tree/master/data)
 
+### Libraries
+<ul>
+  <li>OpenCV</li>
+  <li>Matplotlib</li>
+  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Sklearn</li>
+  <li>Tensorflow</li>
+  
 ### Notebooks
 * [mask_detection.py](https://github.com/Ritik187/Face-mask-detection-/blob/master/mask_detection.py)
 * [mask_detection.json](https://github.com/Ritik187/Face-mask-detection-/blob/master/mask_detection.json)
