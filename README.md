@@ -9,7 +9,7 @@
 * [Author](#Author)
 
 ### About
-It is a deep learning model and aims to detect whether the person is wearing mask or not.
+It is a deep learning model and aims to detect whether the person is wearing mask or not.</br>
 <b>Features:</b>
  * This model has an accuracy about 99%(approx).
  * It sent an alert mail if without mask is detected.
