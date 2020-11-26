@@ -11,7 +11,7 @@
 * [Author](#Author)
 
 ### About
-It is a deep learning model and aims to detect whether the person is wearing mask or not.</br></br><b>Features:</b>
+It is a deep learning model and aims to detect whether the person is wearing mask or not.
  * This model has an accuracy about 99%(approx).
  * It sent an alert mail if without mask is detected.
 
@@ -29,7 +29,7 @@ It is a deep learning model and aims to detect whether the person is wearing mas
  </ul>
 
 ### Algorithm used.
-I haved CNN which is a deep learning algorithm to train the model.
+I have used Convulational Neural Network which is a deep learning algorithm to train the model.
   
 ### Notebooks and their links
 * [mask_detection.py](https://github.com/Ritik187/Face-mask-detection-/blob/master/mask_detection.py)
@@ -40,10 +40,10 @@ I haved CNN which is a deep learning algorithm to train the model.
 
 
 ### Implementation
-I used Jupyter notebook to implement all these files for this model.
+I used Jupyter Notebook to implement all these files for this model.
 
 ### Result
-This model gave 99% accuracy for Face Mask Detection after training via tensorflow-gpu==2.0.0
+This model gave 99% accuracy for face without mask Detection after training via tensorflow-gpu==2.0.0
 
 ### Author
 <li>Ritik Meena</li>
