@@ -1,4 +1,4 @@
-<h1 align="centre"> Face Mask Detection Using Deep Learning</h1>
+<h1 align="centre"> Face Mask Detection/h1>
 
 ### Contents
 * [About](#About)
