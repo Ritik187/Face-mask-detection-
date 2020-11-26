@@ -1,7 +1,7 @@
 # Face Mask Detection
 
 ## Contents:-
-* [About[(#About)
+* [About](#About)
 * Dataset
 * Notebooks and their description
 * Implementation 
