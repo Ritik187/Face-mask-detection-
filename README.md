@@ -1,4 +1,4 @@
-<h1 align='centre'> Face Mask Detection Using Deep Learning</h1>
+<h1 align="centre"> Face Mask Detection Using Deep Learning</h1>
 
 ### Contents
 * [About](#About)
@@ -25,6 +25,7 @@ Features:
   <li>Pandas</li>
   <li>Sklearn</li>
   <li>Tensorflow</li>
+ </ul>
   
 ### Notebooks
 * [mask_detection.py](https://github.com/Ritik187/Face-mask-detection-/blob/master/mask_detection.py)
