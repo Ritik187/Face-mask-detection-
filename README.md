@@ -4,7 +4,7 @@
 * [About](#About)
 * [Dataset](#Dataset)
 * [Frameworks used](#Frameworks used).
-* [Notebooks and their description](#"Notebooks and their description")
+* [Notebooks and their description](#Notebooks)
 * [Implementation](#Implementation)
 * [Author](#Author)
 
@@ -17,14 +17,14 @@ It is a deep learning model and aims to detect whether the person is wearing mas
 ### Dataset
 * [Link](https://github.com/Ritik187/Face-mask-detection-/tree/master/data)
 
-### Files used and their link
+### Notebooks
 * [mask_detection.py](https://github.com/Ritik187/Face-mask-detection-/blob/master/mask_detection.py)
 * [mask_detection.json](https://github.com/Ritik187/Face-mask-detection-/blob/master/mask_detection.json)
 * [mask_detection.h5](https://github.com/Ritik187/Face-mask-detection-/blob/master/mask_detection.h5)
 * [haarcascade_frontalface_default.xml](https://github.com/Ritik187/Face-mask-detection-/blob/master/haarcascade_frontalface_default.xml)
 * [live_detection.py](https://github.com/Ritik187/Face-mask-detection-/blob/master/live_detection.py)
 
-### Implementation Tools
+### Implementation
 I used Jupyter notebook to implement all these files for this model.
 
 ### Author
