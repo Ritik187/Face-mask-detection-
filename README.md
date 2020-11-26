@@ -26,6 +26,7 @@ It is a deep learning model and aims to detect whether the person is wearing mas
   <li>Pandas</li>
   <li>Sklearn</li>
   <li>Tensorflow</li>
+  <li>Smtplib</li>
  </ul>
 
 ### Algorithm used.
@@ -43,7 +44,7 @@ I have used Convulational Neural Network which is a deep learning algorithm to t
 I used Jupyter Notebook to implement all these files for this model.
 
 ### Result
-This model gave 99% accuracy for face without mask Detection after training via tensorflow-gpu==2.0.0
+This model gave 99% accuracy to detect face without mask after training via tensorflow-gpu==2.0.0
 
 ### Author
 <li>Ritik Meena</li>
