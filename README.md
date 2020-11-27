@@ -12,7 +12,7 @@
 
 ### About
 It is a deep learning model and aims to detect whether the person is wearing mask or not.
- * This model has an accuracy about 99%(approx).
+ * This model has an accuracy about 93%(approx).
  * It sent an alert mail if without mask is detected.
 
 ### Dataset
@@ -44,7 +44,7 @@ I have used Convulational Neural Network which is a deep learning algorithm to t
 I used Jupyter Notebook to implement all these files for this model.
 
 ### Result
-This model gave 99% accuracy to detect face without mask after training via tensorflow-gpu==2.0.0
+This model gave 93% accuracy to detect face without mask after training via tensorflow-gpu==2.0.0
 
 ### Author
 <li>Ritik Meena</li>
